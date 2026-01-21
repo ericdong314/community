@@ -138,6 +138,7 @@ def word(m) -> str:
 )
 def text(m) -> str:
     """A sequence of words, including user-defined vocabulary."""
+    # Looks like this is only called with a formatter like ALL_DOWN
     return format_phrase(m)
 
 

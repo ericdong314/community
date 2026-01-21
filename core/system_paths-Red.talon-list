@@ -1,0 +1,16 @@
+list: user.system_paths
+hostname: Red
+-
+user: C:\Users\ericl
+desktop: C:\Users\ericl\Desktop
+desk: C:\Users\ericl\Desktop
+documents: C:\Users\ericl\Documents
+docks: C:\Users\ericl\Documents
+downloads: C:\Users\ericl\Downloads
+music: C:\Users\ericl\Music
+pictures: C:\Users\ericl\Pictures
+videos: C:\Users\ericl\Videos
+talon home: C:\Users\ericl\AppData\Roaming\talon
+talon recordings: C:\Users\ericl\AppData\Roaming\talon\recordings
+talon user: C:\Users\ericl\AppData\Roaming\talon\user
+profile: C:\Users\ericl
