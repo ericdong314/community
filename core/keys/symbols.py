@@ -50,11 +50,11 @@ class Symbol:
 
 currency_symbols = [
     Symbol("$", ["dollar sign"], ["dollar"]),
-    Symbol("£", ["pound sign"], ["pound"]),
+    # Symbol("£", ["pound sign"], ["pound"]),
 ]
 
 symbols = [
-    Symbol("`", ["back tick"], ["grave"]),
+    # Symbol("`", ["back tick"], ["grave"]),
     Symbol(",", ["comma", "coma"]),
     Symbol(".", ["period", "full stop"], ["dot", "point"]),
     Symbol(";", ["semicolon"], ["semi"]),
@@ -82,8 +82,8 @@ symbols = [
     Symbol("<", None, ["angle", "L Angle", "left angle", "less than"]),
     Symbol(">", None, ["rangle", "R angle", "right angle", "greater than"]),
     Symbol("^", None, ["caret"]),
-    Symbol("|", None, ["pipe"]),
-    Symbol("'", None, ["quote", "apostrophe"]),
+    # Symbol("|", None, ["pipe"]),
+    # Symbol("'", None, ["quote", "apostrophe"]),
     Symbol('"', None, ["dub quote", "double quote"]),
 ]
 

@@ -20,6 +20,8 @@ not speech.engine: dragon
 #
 # It's a useful and well known command, though, so if you're using any other speech
 # engine, this controls Talon.
+^thanks amanda[<phrase>]$: speech.disable()
+^stop listening[<phrase>]$: speech.disable()
 ^go to sleep [<phrase>]$: speech.disable()
 ^talon sleep [<phrase>]$:
     speech.disable()
