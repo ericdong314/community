@@ -1,0 +1,16 @@
+list: user.system_paths
+hostname: TABLET-GJ6LMV68
+-
+user: C:\Users\Eric2
+desktop: C:\Users\Eric2\Desktop
+desk: C:\Users\Eric2\Desktop
+documents: C:\Users\Eric2\Documents
+docks: C:\Users\Eric2\Documents
+downloads: C:\Users\Eric2\Downloads
+music: C:\Users\Eric2\Music
+pictures: C:\Users\Eric2\Pictures
+videos: C:\Users\Eric2\Videos
+talon home: C:\Users\Eric2\AppData\Roaming\talon
+talon recordings: C:\Users\Eric2\AppData\Roaming\talon\recordings
+talon user: C:\Users\Eric2\AppData\Roaming\talon\user
+profile: C:\Users\Eric2

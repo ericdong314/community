@@ -12,9 +12,10 @@ not tag: user.deep_sleep
 # engine, this controls Talon.
 
 # ^(wake up)+$: speech.enable()
-^(Hello Amanda)+$: speech.enable()
-^(start listening)+$: speech.enable()
+# ^(Hello Amanda)+$: speech.enable()
+^skvjmopkie$: speech.enable()
+# ^(start listening)+$: speech.enable()
 
-^talon wake [<phrase>]$:
-    speech.enable()
-    user.deprecate_command("2025-06-25", "talon wake (without dragon)", "wake up")
+# ^talon wake [<phrase>]$:
+    # speech.enable()
+    # user.deprecate_command("2025-06-25", "talon wake (without dragon)", "wake up")
