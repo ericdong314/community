@@ -13,7 +13,7 @@ not tag: user.deep_sleep
 
 # ^(wake up)+$: speech.enable()
 # ^(Hello Amanda)+$: speech.enable()
-^skvjmopkie$: speech.enable()
+# ^skvjmopkie$: speech.enable()
 # ^(start listening)+$: speech.enable()
 
 # ^talon wake [<phrase>]$:
